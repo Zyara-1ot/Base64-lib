@@ -10,7 +10,7 @@ A lightweight Base64 encoder and decoder implemented from scratch in C.
 - Dynamic memory allocation
 - Clean and modular implementation
 
-  ## 📦 What It Does
+  ## What It Does
 
 This project provides a minimal implementation of the Base64 algorithm
 as defined in RFC 4648.
@@ -34,7 +34,7 @@ base64.c   - Core encoding and decoding logic
 base64.h   - Header declarations  
 main.c     - Example usage and test driver  
 
-## 🔧 Build
+## Build
 
 ```bash
 gcc -Wall -Wextra -o base64 main.c base64.c
