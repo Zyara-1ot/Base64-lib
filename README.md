@@ -30,15 +30,9 @@ Achieved **271 MB/s throughput** using only standard C optimizations—no SIMD, 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/base64.git
+git clone https://github.com/Zyara-1ot/base64.git
 cd base64
 
-# Compile with optimizations
-gcc -O3 -march=native -o your_program your_program.c base64.c
-
-# Or use the provided Makefile
-make
-```
 
 ## Usage
 
