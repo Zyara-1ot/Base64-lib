@@ -247,14 +247,6 @@ gcc -O3 -march=native -o test main.c base64.c
 ./test
 ```
 
-### With Makefile
-
-```bash
-make        # Build all targets
-make test   # Run test program
-make bench  # Run benchmarks
-make clean  # Clean build artifacts
-```
 
 ### Compilation Flags
 
