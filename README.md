@@ -30,7 +30,7 @@ Achieved **271 MB/s throughput** using only standard C optimizations—no SIMD, 
 
 ```bash
 # Clone the repository
-git clone https://github.com/Zyara-1ot/base64.git
+git clone https://github.com/Zyara-1ot/Base64-lib.git
 cd base64
 
 
